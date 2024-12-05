@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758171086494",
+    "project_id": "biu-force",
+    "storage_bucket": "biu-force.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758171086494:android:6b3783f14fceefc2d2d58f",
+        "android_client_info": {
+          "package_name": "com.example.biu_force"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf550IUL-3PThZyT8mUNouR9tCYAerB10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
